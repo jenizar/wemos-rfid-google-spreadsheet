@@ -35,7 +35,7 @@ const int httpsPort = 443;
 
 WiFiClientSecure client; //--> Create a WiFiClientSecure object.
 
-String GAS_ID = "AKfycbwnUYl1shjBCx3CnG8aedbOfFfZBmI7vu2SRWsvVJ5HMv6MknFzCjiuWyb7nUjOOWbNmw"; //--> spreadsheet script ID
+String GAS_ID = "AKfycbwnUYl1shjBCx3CnG8aedbOfFfZBmI9vu2SRWsvVJ5HMv6MknFzCjiuWyb9nUjOOWbNmw"; //--> spreadsheet script ID
 
 void setup() {
   Serial.begin(115200);   // Initialize serial communications with the PC
